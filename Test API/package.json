@@ -9,7 +9,9 @@
   "author": "M-Fatur-Maulidan-A",
   "license": "ISC",
   "dependencies": {
+    "connect-ensure-login": "^0.1.1",
     "cors": "^2.8.5",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
   }
 }
